@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "vinext dev",
     "build": "vinext build",
-    "deploy:cloudflare": "npm run build && wrangler deploy --config dist/server/wrangler.json --name castro-pinturas",
+    "deploy:cloudflare": "npm run build && wrangler pages deploy dist/client --project-name castro-pinturas --branch main",
     "start": "vinext start",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next"
   },
