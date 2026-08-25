@@ -5,12 +5,12 @@ const services = [
 ];
 
 const projects = [
-  { src: '/trabalhos/pintura-piso-industrial-aplicacao.jpeg', title: 'Aplicação de tinta para piso', category: 'Pintura industrial' },
-  { src: '/trabalhos/piso-industrial-renovado.jpeg', title: 'Piso industrial renovado', category: 'Acabamento profissional' },
-  { src: '/trabalhos/acabamento-galpao.jpeg', title: 'Acabamento em galpão', category: 'Pintura de grande área' },
-  { src: '/trabalhos/area-industrial-revitalizada.jpeg', title: 'Área industrial revitalizada', category: 'Renovação completa' },
-  { src: '/trabalhos/execucao-pintura-piso.jpeg', title: 'Execução do serviço', category: 'Preparação e pintura' },
-  { src: '/trabalhos/pintura-residencial-externa.jpeg', title: 'Pintura residencial externa', category: 'Proteção e acabamento' },
+  { src: '/trabalhos/pintura-piso-industrial-aplicacao-aprimorada.jpg', title: 'Aplicação de tinta para piso', category: 'Pintura industrial' },
+  { src: '/trabalhos/piso-industrial-renovado-aprimorada.jpg', title: 'Piso industrial renovado', category: 'Acabamento profissional' },
+  { src: '/trabalhos/acabamento-galpao-aprimorada.jpg', title: 'Acabamento em galpão', category: 'Pintura de grande área' },
+  { src: '/trabalhos/area-industrial-revitalizada-aprimorada.jpg', title: 'Área industrial revitalizada', category: 'Renovação completa' },
+  { src: '/trabalhos/execucao-pintura-piso-aprimorada.jpg', title: 'Execução do serviço', category: 'Preparação e pintura' },
+  { src: '/trabalhos/pintura-residencial-externa-aprimorada.jpg', title: 'Pintura residencial externa', category: 'Proteção e acabamento' },
 ];
 
 const steps = [
