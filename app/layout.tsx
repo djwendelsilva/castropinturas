@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 export const metadata: Metadata = {
+  metadataBase: new URL('https://cruzecastro.pages.dev'),
   title: 'Cruz e Castro | Recuperação de Fachadas e Pinturas',
   description: 'Recuperação de fachadas, pintura residencial e comercial com acabamento profissional e cuidado em cada detalhe.',
   openGraph: { title: 'Cruz e Castro | Recuperação de Fachadas e Pinturas', description: 'Seu imóvel renovado, do jeito certo.', images: ['/og.png'], locale: 'pt_BR', type: 'website' },
