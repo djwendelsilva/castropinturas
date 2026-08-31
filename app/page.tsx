@@ -11,6 +11,10 @@ const projects = [
   { src: '/trabalhos/area-industrial-revitalizada-aprimorada.jpg', title: 'Área industrial revitalizada', category: 'Renovação completa' },
   { src: '/trabalhos/execucao-pintura-piso-aprimorada.jpg', title: 'Execução do serviço', category: 'Preparação e pintura' },
   { src: '/trabalhos/pintura-residencial-externa-aprimorada.jpg', title: 'Pintura residencial externa', category: 'Proteção e acabamento' },
+  { src: '/trabalhos/pintura-garagem-demarcacao.jpg', title: 'Pintura e demarcação de garagem', category: 'Piso e sinalização' },
+  { src: '/trabalhos/recuperacao-parede-residencial.jpg', title: 'Recuperação de parede residencial', category: 'Preparação de superfície' },
+  { src: '/trabalhos/acabamento-porta-janela.jpg', title: 'Acabamento em portas e janelas', category: 'Renovação residencial' },
+  { src: '/trabalhos/pintura-interna-residencial.jpg', title: 'Pintura interna residencial', category: 'Textura e acabamento' },
 ];
 
 const steps = [
